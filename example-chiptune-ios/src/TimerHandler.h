@@ -29,7 +29,7 @@ private:
   static const u_int32_t kMinutesInMiliSeconds  =    60000;
   static const u_int32_t kSecondsInMicroSeconds =  1000000;
 
-  static const int kDefaultBPM  =      130;
+  static const int kDefaultBPM  =      100;
   static const int kDefaultBeat =        4;
   static const int kDefaultResolution = 16;
   

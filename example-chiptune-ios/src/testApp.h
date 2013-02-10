@@ -37,7 +37,7 @@ private:
   static const int kAudioBufferSize = 1024;
   
   static const int kPolyphonyVoices = 2;
-  static const int kSongLength = 256;
+  static const int kSongLength = 768;
   static const int kNoteNumbers[kPolyphonyVoices][kSongLength];
 
   static const int kProgramSize = 3;
