@@ -23,9 +23,9 @@ WebBeeper 2A03
 Compatibility
 -------------
 
-Tested with openFrameworks 0073 on OS X 10.8 & iOS 6.
+Tested with openFrameworks 0.7.3 ~ 0.8.0 on OS X 10.8 and iOS 6.
 
 License
 -------
 
-MIT License
+[MIT License](https://secure.wikimedia.org/wikipedia/en/wiki/Mit_license)
